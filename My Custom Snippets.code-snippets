@@ -136,8 +136,8 @@
 		"prefix": "jqon",
 		"scope": "javascript,typescript",
 		"body": [
-		  "$(\"$1\").on(\"$2\", \"$3\", function($3){",
-		  		"$4",
+		  "$(\"$1\").on(\"$2\", \"$3\", function($4){",
+		  		"$5",
 		  "});"
 		],
 		"description": "Jquery On function"
